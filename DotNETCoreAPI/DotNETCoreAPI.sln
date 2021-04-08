@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNETCoreAPI", "DotNETCoreAPI\DotNETCoreAPI.csproj", "{EDFF71B7-AF9C-45FA-BCAF-D0BBDA931198}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EDFF71B7-AF9C-45FA-BCAF-D0BBDA931198}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDFF71B7-AF9C-45FA-BCAF-D0BBDA931198}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDFF71B7-AF9C-45FA-BCAF-D0BBDA931198}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDFF71B7-AF9C-45FA-BCAF-D0BBDA931198}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {26FB5B19-8251-4A7E-BA05-470A38967965}
+	EndGlobalSection
+EndGlobal
